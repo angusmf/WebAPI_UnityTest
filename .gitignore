@@ -1,0 +1,12 @@
+Library/
+Temp/
+.vs/CW/v14/.suo
+Assets/Antfarm/datafiles/accounts/
+.vs/
+Assets/Antfarm/datafiles/saves/
+*.sln
+*.csproj
+obj/
+Logs/
+Assets/Antfarm/datafiles/saves
+Builds/
